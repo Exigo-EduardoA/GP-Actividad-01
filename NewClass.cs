@@ -3,4 +3,5 @@ public class classA {
     public string bar { get; set; };
     public string name {get; set; };
     public int id {get; set;};
+    public string lorem {get; set; };
 }
